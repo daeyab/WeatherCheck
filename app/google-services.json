@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89882517717",
+    "firebase_url": "https://weatherchecking-e1dd4.firebaseio.com",
+    "project_id": "weatherchecking-e1dd4",
+    "storage_bucket": "weatherchecking-e1dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89882517717:android:ae7a2d49597756e192825c",
+        "android_client_info": {
+          "package_name": "com.example.weathercheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89882517717-rag9c614l7j4he57vpo7ifplj04h1fp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weathercheck",
+            "certificate_hash": "4d9e2a607aba59c8e80e5c42bffd3471b48a7e78"
+          }
+        },
+        {
+          "client_id": "89882517717-nuifu79dgnp0h7kbkudo8qp3jnoat15j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8vTFhN1I1b4ULqHplCTwGN7Nd6DZkDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89882517717-nuifu79dgnp0h7kbkudo8qp3jnoat15j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
